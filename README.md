@@ -44,6 +44,14 @@ Born in :portugal:, raised in :fr:, lives in :es:.
  [![GitHub streak](http://github-readme-streak-stats.herokuapp.com?user=patriciacostadacruz&theme=dark&background=000000)](https://git.io/streak-stats)
  
  <hr>
+ 
+ ## :eyes: Projects
+ 
+  [Hubble's quest - 2d canvas game](https://patriciacostadacruz.github.io/Hubble-s-quest/) - web format first
+  
+  [Food Folio app](https://food-folio-app.fly.dev/) - mobile format first
+  
+  <hr>
   
   :speech_balloon: Feel free to reach out for any questions, proposals or collaboration ideas you might have!
   
