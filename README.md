@@ -55,4 +55,4 @@ Born in :portugal:, raised in :fr:, lives in :es:.
   
   :speech_balloon: Feel free to reach out for any questions, proposals or collaboration ideas you might have!
   
-  <a href="www.linkedin.com/in/patricia-costa-da-cruz"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge"/></a>
+  <a href="https://www.linkedin.com/in/patricia-costa-da-cruz"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge"/></a>
