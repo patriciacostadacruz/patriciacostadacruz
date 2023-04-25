@@ -47,9 +47,11 @@ Born in :portugal:, raised in :fr:, lives in :es:.
  
  ## :eyes: Projects
  
-  [Hubble's quest - 2d canvas game](https://patriciacostadacruz.github.io/Hubble-s-quest/) - web format first
+  [Hubble's quest - 2d canvas game](https://patriciacostadacruz.github.io/Hubble-s-quest/) - desktop breakpoint 
   
-  [Food Folio app](https://food-folio-app.fly.dev/) - mobile format first
+  [Food Folio app](https://food-folio-app.fly.dev/) - mobile first
+
+  [investMate](https://investmate-pro.netlify.app/) - desktop breakpoint 
   
   <hr>
   
