@@ -14,7 +14,7 @@ Born in :portugal:, raised in :fr:, lives in :es:.
 
  I am a Tech Application Analyst level II at [ADP](https://www.adp.com/) Iberia, company with which I've been working for more than 3 years now. :telescope:
  
- I also am a soon-to-be-graduated Full Stack Web Developer from [IronHack](https://www.ironhack.com/en) school. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ I am looking for a new opportunitu to work as a Full Stack / Back End Web Developer. I graduated from [IronHack](https://www.ironhack.com/en) school. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
  Hobbies: :video_game: :books: :plate_with_cutlery: :airplane: :ping_pong: :musical_note: :woman_technologist:	:weight_lifting_woman:
  
