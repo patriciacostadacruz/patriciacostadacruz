@@ -42,7 +42,9 @@ Born in :portugal:, raised in :fr:, lives in :es:.
  ## :fire: My stats
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patriciacostadacruz&theme=highcontrast&hide_border=true&border_radius=10)](https://git.io/streak-stats)
- 
+
+PS: contributions might not be relevant as they are only counted for Master/Main branches and not Dev.
+
  <hr>
  
  ## :eyes: Projects
