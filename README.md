@@ -45,16 +45,6 @@ Born in :portugal:, raised in :fr:, lives in :es:.
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patriciacostadacruz&theme=highcontrast&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 PS: contributions might not be relevant as they are only counted for Master/Main branches and not Dev.
-
- <hr>
- 
- ## :eyes: Projects
- 
-  [Hubble's quest - 2d canvas game](https://patriciacostadacruz.github.io/Hubble-s-quest/) - desktop breakpoint 
-  
-  [Food Folio app](https://food-folio-app.fly.dev/) - mobile first
-
-  [investMate](https://investmate-pro.netlify.app/) - desktop breakpoint 
   
   <hr>
   
