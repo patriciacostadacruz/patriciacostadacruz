@@ -14,7 +14,7 @@ Born in :portugal:, raised in :fr:, lives in :es:.
 
  I was a Tech Application Analyst level II at [ADP](https://www.adp.com/) Iberia, company for which I've worked 4 years. :telescope:
  
- I graduated from [IronHack](https://www.ironhack.com/en) school in April 2023 and am now a Junior Full Stack Web Developer at [Brickbro](https://www.brickbro.com/). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ I graduated from [IronHack](https://www.ironhack.com/en) school in April 2023 and am now a Junior Full Stack Developer at [Brickbro](https://www.brickbro.com/). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
  Hobbies: :video_game: :books: :plate_with_cutlery: :airplane: :ping_pong: :musical_note: :woman_technologist:	:weight_lifting_woman:
  
