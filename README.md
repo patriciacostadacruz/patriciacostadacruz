@@ -12,9 +12,9 @@ Hi there, welcome to my GitHub profile! :wave:
 
 Born in :portugal:, raised in :fr:, lives in :es:.
 
- I was a Tech Application Analyst level II at [ADP](https://www.adp.com/) Iberia, company for which I've worked 4 years. :telescope:
+ I am a Full Stack Developer at [Brickbro](https://www.brickbro.com/) since September 2023. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
- I finalized my Web Development formation program in April 2023 and am now a Full Stack Developer at [Brickbro](https://www.brickbro.com/) since September 2023. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ I'm also one of the 3 co-founders, and the main developer at [Biosai](https://biosai.io/). 🤖
  
  Hobbies: :video_game: :books: :plate_with_cutlery: :airplane: :ping_pong: :musical_note: :woman_technologist:	:weight_lifting_woman:
  
@@ -44,6 +44,10 @@ Born in :portugal:, raised in :fr:, lives in :es:.
  <hr>
  
  ## :fire: My stats
+
+ ![Top Langs](https://github-readme-stats-pi-ochre-50.vercel.app/api/top-langs/?username=patriciacostadacruz&layout=compact&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER,MEMBER&hide=html,css&theme=dark&langs_count=8)
+
+ The top languages stats are missing my contributions to private organizations. 
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patriciacostadacruz&theme=dark&border_radius=6)](https://git.io/streak-stats)
   
