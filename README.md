@@ -44,10 +44,6 @@ Born in :portugal:, raised in :fr:, lives in :es:.
  <hr>
  
  ## :fire: My stats
-
- ![Top Langs](https://github-readme-stats-pi-ochre-50.vercel.app/api/top-langs/?username=patriciacostadacruz&layout=compact&hide=html,css,handlebars&theme=dark&langs_count=8)
-
- The top languages stats are missing my contributions to private organizations. 
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patriciacostadacruz&theme=dark&border_radius=6)](https://git.io/streak-stats)
   
