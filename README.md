@@ -45,7 +45,7 @@ Born in :portugal:, raised in :fr:, lives in :es:.
  
  ## :fire: My stats
 
- ![Top Langs](https://github-readme-stats-pi-ochre-50.vercel.app/api/top-langs/?username=patriciacostadacruz&layout=compact&hide=html,css&theme=dark&langs_count=8)
+ ![Top Langs](https://github-readme-stats-pi-ochre-50.vercel.app/api/top-langs/?username=patriciacostadacruz&layout=compact&hide=html,css,handlebars&theme=dark&langs_count=8)
 
  The top languages stats are missing my contributions to private organizations. 
  
