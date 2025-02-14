@@ -42,12 +42,6 @@ Born in :portugal:, raised in :fr:, lives in :es:.
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
  
  <hr>
- 
- ## :fire: My stats
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patriciacostadacruz&theme=dark&border_radius=6)](https://git.io/streak-stats)
-  
-  <hr>
   
   :speech_balloon: Feel free to reach out for any questions, proposals or collaboration ideas you might have!
   
