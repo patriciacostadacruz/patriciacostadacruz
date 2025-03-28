@@ -10,9 +10,9 @@ Hi there, welcome to my GitHub profile! :wave:
 
 ## :space_invader: About me
 
-Born in :portugal:, raised in :fr:, lives in :es:.
+Born in :portugal:, raised in :fr:, living in :es:.
 
- I am a Full Stack Developer at [Brickbro](https://www.brickbro.com/) since September 2023. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ I am a freelance Full Stack Software Developer at [Rosa](https://pro.rosa.be/en/about-rosa). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
  I'm also one of the 3 co-founders, and the main developer at [Biosai](https://biosai.io/). 🤖
  
