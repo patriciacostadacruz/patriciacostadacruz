@@ -14,8 +14,6 @@ Born in :portugal:, raised in :fr:, living in :es:.
 
  I am a freelance Full Stack Software Developer at [Rosa](https://pro.rosa.be/en/about-rosa). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
- I'm also one of the 3 co-founders, and the main developer at [Biosai](https://biosai.io/). 🤖
- 
  Hobbies: :video_game: :books: :plate_with_cutlery: :airplane: :ping_pong: :musical_note: :woman_technologist:	:weight_lifting_woman:
  
  <hr>
